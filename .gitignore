@@ -1,0 +1,35 @@
+# Java
+*.class
+*.log
+hs_err_pid*
+replay_pid*
+
+# Build outputs
+/build/
+/out/
+/target/
+
+# Gradle
+.gradle/
+/gradle/wrapper/gradle-wrapper.properties.bak
+gradle-app.setting
+
+# IDEs
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.vscode/
+
+# OS
+.DS_Store
+
+# Archives (keep source zips if you want to track them)
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
